@@ -1,0 +1,15 @@
+Github-setup 
+
+git config --global user.name cbritos2016
+git config --global user.email cristian@britos.net
+git config --global core.editor "code --wait"
+git config --global -e
+git config --global core.autocrlf input
+
+
+git branch -M main
+git remote add origin https://github.com/cbritos2016/TestProj.git
+git push -u origin main
+
+
+cbritos2016
