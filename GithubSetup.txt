@@ -1,4 +1,4 @@
-Github-setup 
+#Github-setup 
 
 git config --global user.name cbritos2016
 git config --global user.email cristian@britos.net
